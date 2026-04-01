@@ -4,7 +4,7 @@ import operationTool from '../../assets/products/operation.png';
 import portFolio from '../../assets/products/portfolio.png';
 import socialMedia from '../../assets/products/social-media.png';
 import writing from '../../assets/products/writing_2327400 1.png';
-import camera from '../../assets/products/camera.png';
+import camera from '../../assets/products/Play.png';
 import { toast } from 'react-toastify';
 const ModelCart = ({ card, index, selectedCards, setSelectedCards}) => {
       const iconList = [writing, designTool, camera, operationTool, portFolio, socialMedia];
