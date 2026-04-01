@@ -1,16 +1,25 @@
-# React + Vite
+# Digital Tools Buying
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A polished React + Vite storefront for digital tools, built with modern UI design and dynamic cart interactions. This project showcases a product catalog, cart toggling, responsive layout, and alert-driven feedback using `react-toastify`.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+In this app, users can browse digital products, switch between product and cart views, and manage selected items in a clean shopping interface. The experience is designed with product cards, feature tags, cart totals, and checkout behavior that clear the cart with one click.
 
-## React Compiler
+## Technologies Used
+- React
+- Vite
+- Tailwind CSS
+-  DaisyUI
+- React Toastify
+- CSS for responsive layout
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Key Features
 
-## Expanding the ESLint configuration
+1. Product browsing with a 3-column card layout
+2. Cart management with add/remove actions and total count
+3. Toast notifications for add, remove, and checkout events
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Why this project
+
+From the project perspective, this app is a lightweight digital tool marketplace that demonstrates state-driven UI, reusable components, and responsive design. It is ideal for learning how to build a small e-commerce-style interface with React and Vite.
