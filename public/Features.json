@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
+    "billing": "mo",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker"
+    ],
+    "badge": "Best Seller"
+  },
+  {
+    "id": 2,
+    "title": "AI Writing Starter",
+    "description": "Perfect for beginners who want to try AI content creation tools.",
+    "price": 9,
+    "billing": "mo",
+    "features": [
+      "100 AI generations/month",
+      "Basic templates",
+      "Limited grammar check"
+    ],
+    "badge": "Popular"
+  },
+  {
+    "id": 3,
+    "title": "AI Writing Business",
+    "description": "Advanced tools for agencies and businesses to scale content production.",
+    "price": 49,
+    "billing": "mo",
+    "features": [
+      "Unlimited AI generations",
+      "All templates access",
+      "Advanced grammar & tone check",
+      "Team collaboration"
+    ],
+    "badge": "Recommended"
+  },
+  {
+    "id": 4,
+    "title": "AI Writing Enterprise",
+    "description": "Full-scale AI solution with premium support and customization.",
+    "price": 99,
+    "billing": "mo",
+    "features": [
+      "Unlimited everything",
+      "Custom AI models",
+      "Priority support",
+      "Team management dashboard"
+    ],
+    "badge": "Enterprise"
+  },
+  {
+    "id": 5,
+    "title": "AI Writing Student",
+    "description": "Affordable plan designed for students and learners.",
+    "price": 5,
+    "billing": "mo",
+    "features": [
+      "50 AI generations/month",
+      "Basic templates",
+      "Grammar suggestions"
+    ],
+    "badge": "Student"
+  },
+  {
+    "id": 6,
+    "title": "AI Writing Premium",
+    "description": "Best balance of price and features for professionals.",
+    "price": 39,
+    "billing": "mo",
+    "features": [
+      "Unlimited AI generations",
+      "Premium templates",
+      "Grammar + plagiarism check",
+      "Content optimization tools"
+    ],
+    "badge": "Best Value"
+  }
+]
